@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NgonNguCSharp_BaiTapAbstractClass_Animal
 {
-    public class Chicken : Animal
+    public class Chicken : Animal, Edible
     {
         public override string MakeSound()
         {

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace NgonNguCSharp_BaiTapAbstractClass_Animal
 {
-    public abstract class Edible
+    public interface Edible
     {
-        public abstract string HowToEat();
+        string HowToEat();
     }
 }
