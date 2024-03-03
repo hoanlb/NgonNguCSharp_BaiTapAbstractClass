@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapAbstrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapAbstractClass_Resizeable", "NgonNguCSharp_BaiTapAbstractClass_Resizeable\NgonNguCSharp_BaiTapAbstractClass_Resizeable.csproj", "{F4A7C222-10E5-4979-88C0-D394D89064FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapAbstractClass_IColorable", "NgonNguCSharp_BaiTapAbstractClass_IColorable\NgonNguCSharp_BaiTapAbstractClass_IColorable.csproj", "{120BEF78-17F6-46B3-855D-4B6AD378FFAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F4A7C222-10E5-4979-88C0-D394D89064FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4A7C222-10E5-4979-88C0-D394D89064FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4A7C222-10E5-4979-88C0-D394D89064FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120BEF78-17F6-46B3-855D-4B6AD378FFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120BEF78-17F6-46B3-855D-4B6AD378FFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120BEF78-17F6-46B3-855D-4B6AD378FFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120BEF78-17F6-46B3-855D-4B6AD378FFAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
