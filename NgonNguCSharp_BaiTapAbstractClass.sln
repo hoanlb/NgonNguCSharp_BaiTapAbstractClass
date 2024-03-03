@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapAbstractClass_Animal", "NgonNguCSharp_BaiTapAbstractClass_Animal\NgonNguCSharp_BaiTapAbstractClass_Animal.csproj", "{55A26060-890E-4122-93F8-4EEC563C7DB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapAbstractClass_IComparable", "NgonNguCSharp_BaiTapAbstractClass_IComparable\NgonNguCSharp_BaiTapAbstractClass_IComparable.csproj", "{AC2E7F24-3631-471D-B724-5A275386BDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapAbstractClass_Resizeable", "NgonNguCSharp_BaiTapAbstractClass_Resizeable\NgonNguCSharp_BaiTapAbstractClass_Resizeable.csproj", "{F4A7C222-10E5-4979-88C0-D394D89064FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{55A26060-890E-4122-93F8-4EEC563C7DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55A26060-890E-4122-93F8-4EEC563C7DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55A26060-890E-4122-93F8-4EEC563C7DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2E7F24-3631-471D-B724-5A275386BDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2E7F24-3631-471D-B724-5A275386BDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2E7F24-3631-471D-B724-5A275386BDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2E7F24-3631-471D-B724-5A275386BDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A7C222-10E5-4979-88C0-D394D89064FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A7C222-10E5-4979-88C0-D394D89064FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A7C222-10E5-4979-88C0-D394D89064FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A7C222-10E5-4979-88C0-D394D89064FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

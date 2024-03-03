@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AC2E7F24-3631-471D-B724-5A275386BDCF}</ProjectGuid>
+    <ProjectGuid>{F4A7C222-10E5-4979-88C0-D394D89064FA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NgonNguCSharp_BaiTapAbstractClass_IComparable</RootNamespace>
-    <AssemblyName>NgonNguCSharp_BaiTapAbstractClass_IComparable</AssemblyName>
+    <RootNamespace>NgonNguCSharp_BaiTapAbstractClass_Resizeable</RootNamespace>
+    <AssemblyName>NgonNguCSharp_BaiTapAbstractClass_Resizeable</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,11 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Circle.cs" />
-    <Compile Include="CircleComparator.cs" />
-    <Compile Include="ComperableCircle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Resizeable.cs" />
     <Compile Include="Shape.cs" />
+    <Compile Include="Square.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
